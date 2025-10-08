@@ -34,13 +34,14 @@ Hosting: Netlify
 🖼️ Screenshots :-
 
 🌤️ Home Page
-
-<img width="1838" height="909" alt="Screenshot 2025-10-05 223854" src="https://github.com/user-attachments/assets/b8d02324-1d8c-46ad-96d4-e4aef15f294a" />
-
+<img width="1838" height="909" alt="Screenshot 2025-10-05 223854" src="https://github.com/user-attachments/assets/72f64d0c-7be6-4ff4-aa28-eacf6f366533" />
 
 🌦️ Weather Dashboard
 
-<img width="1818" height="901" alt="Screenshot 2025-10-05 224235" src="https://github.com/user-attachments/assets/abadd366-92cc-4d06-8473-51c4c702b6ab" />
+<img width="1895" height="894" alt="Screenshot 2025-10-08 095754" src="https://github.com/user-attachments/assets/fff2f3af-75e3-4870-a671-afa308896f42" />
+
+
+<img width="1920" height="834" alt="Screenshot 2025-10-08 100020" src="https://github.com/user-attachments/assets/3b0408b3-7daa-4f53-9f5e-04d251a90e76" />
 
 ⚙️ Installation & Setup
 

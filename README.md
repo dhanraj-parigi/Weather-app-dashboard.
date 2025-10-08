@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+🌦️ Weather App Dashboard
 
-## Project info
+A modern, interactive Weather Dashboard built using TypeScript, Vite, and Tailwind CSS.
+It provides real-time weather updates, temperature forecasts, and detailed environmental statistics — all in a clean and responsive design.
 
-**URL**: https://lovable.dev/projects/5d73180b-e2c6-41eb-a991-fa2262acf833
+🌐 Live Demo: https://weather-application-dashboard.netlify.app/
 
-## How can I edit this code?
+✨ Features
 
-There are several ways of editing your application.
+🔍 Search weather by city name
 
-**Use Lovable**
+🌡️ Current temperature, feels-like, humidity, and pressure
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5d73180b-e2c6-41eb-a991-fa2262acf833) and start prompting.
+💨 Wind speed, UV index, and visibility info
 
-Changes made via Lovable will be committed automatically to this repo.
+🌧️ Daily rain amount and cloud cover data
 
-**Use your preferred IDE**
+📅 5-day weather forecast
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📊 Dynamic temperature prediction chart
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🌈 Fully responsive layout built with Tailwind CSS
 
-Follow these steps:
+🧠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Frontend: TypeScript, Vite
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Styling: Tailwind CSS
 
-# Step 3: Install the necessary dependencies.
-npm i
+API: OpenWeatherMap API
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Hosting: Netlify
+
+🖼️ Screenshots :-
+
+🌤️ Home Page
+
+<img width="1838" height="909" alt="Screenshot 2025-10-05 223854" src="https://github.com/user-attachments/assets/b8d02324-1d8c-46ad-96d4-e4aef15f294a" />
+
+
+🌦️ Weather Dashboard
+
+<img width="1818" height="901" alt="Screenshot 2025-10-05 224235" src="https://github.com/user-attachments/assets/abadd366-92cc-4d06-8473-51c4c702b6ab" />
+
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/dhanraj-parigi/Weather-app-dashboard.git
+
+
+Navigate to the project folder
+
+cd Weather-app-dashboard
+
+
+Install dependencies
+
+npm install
+
+
+Start the development server
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Open the app in your browser (usually at http://localhost:5173)
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+💡 Learnings
 
-This project is built with:
+TypeScript + API integration
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Modular component-based structure with Vite
 
-## How can I deploy this project?
+Tailwind CSS for responsive UI
 
-Simply open [Lovable](https://lovable.dev/projects/5d73180b-e2c6-41eb-a991-fa2262acf833) and click on Share -> Publish.
+Fetching and visualizing real-time data
 
-## Can I connect a custom domain to my Lovable project?
+🚀 Future Enhancements
 
-Yes, you can!
+🌍 Auto-detect user location
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🕶️ Dark/Light mode support
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📱 Progressive Web App (PWA)
+
+🗺️ Map integration for location visualization
